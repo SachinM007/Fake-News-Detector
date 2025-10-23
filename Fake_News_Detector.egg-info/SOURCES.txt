@@ -1,0 +1,11 @@
+README.md
+setup.py
+Fake_News_Detector.egg-info/PKG-INFO
+Fake_News_Detector.egg-info/SOURCES.txt
+Fake_News_Detector.egg-info/dependency_links.txt
+Fake_News_Detector.egg-info/top_level.txt
+src/__init__.py
+src/inference.py
+src/model.py
+src/preprocess.py
+src/utils.py
